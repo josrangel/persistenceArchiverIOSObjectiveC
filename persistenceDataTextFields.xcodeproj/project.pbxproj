@@ -14,6 +14,7 @@
 		30F3D2B82547808A00819CF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30F3D2B72547808A00819CF8 /* Assets.xcassets */; };
 		30F3D2BB2547808A00819CF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30F3D2B92547808A00819CF8 /* LaunchScreen.storyboard */; };
 		30F3D2BE2547808A00819CF8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 30F3D2BD2547808A00819CF8 /* main.m */; };
+		30F3D2C8254792D500819CF8 /* BIDFourLines.m in Sources */ = {isa = PBXBuildFile; fileRef = 30F3D2C7254792D500819CF8 /* BIDFourLines.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		30F3D2BA2547808A00819CF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		30F3D2BC2547808A00819CF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		30F3D2BD2547808A00819CF8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		30F3D2C6254792D500819CF8 /* BIDFourLines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BIDFourLines.h; sourceTree = "<group>"; };
+		30F3D2C7254792D500819CF8 /* BIDFourLines.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDFourLines.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				30F3D2B92547808A00819CF8 /* LaunchScreen.storyboard */,
 				30F3D2BC2547808A00819CF8 /* Info.plist */,
 				30F3D2BD2547808A00819CF8 /* main.m */,
+				30F3D2C6254792D500819CF8 /* BIDFourLines.h */,
+				30F3D2C7254792D500819CF8 /* BIDFourLines.m */,
 			);
 			path = persistenceDataTextFields;
 			sourceTree = "<group>";
@@ -148,6 +153,7 @@
 				30F3D2B32547807800819CF8 /* ViewController.m in Sources */,
 				30F3D2AD2547807800819CF8 /* AppDelegate.m in Sources */,
 				30F3D2BE2547808A00819CF8 /* main.m in Sources */,
+				30F3D2C8254792D500819CF8 /* BIDFourLines.m in Sources */,
 				30F3D2B02547807800819CF8 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
